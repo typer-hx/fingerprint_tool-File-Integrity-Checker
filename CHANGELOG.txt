@@ -1,0 +1,18 @@
+Fingerprint Tool – Changelog
+
+v1.0.0 (Initial Release)
+------------------------
+• Deterministic ZIP creation
+• SHA256 hashing for integrity verification
+• HMAC-SHA256 for authenticated integrity
+• GUI application for Windows users
+• Python CLI tool for automation
+• JSON manifest generation
+• Verification workflow for recipients
+
+Future plans
+------------
+• Cross-platform GUI support
+• Drag-and-drop file selection
+• Automatic checksum generation for releases
+• Optional digital signature support
