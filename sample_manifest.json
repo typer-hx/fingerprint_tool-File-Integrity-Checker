@@ -1,0 +1,6 @@
+{
+  "type": "zip",
+  "filename": "example_package.zip",
+  "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "hmac": "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789"
+}
