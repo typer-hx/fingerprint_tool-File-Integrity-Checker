@@ -201,7 +201,7 @@ Optional actions:
 
 ### Receiver
 
-1. Run verification
+1. After receiving the secure HMAC code, Runs verification
 2. Compare hashes
 3. If verified → unzip safely
 
