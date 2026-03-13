@@ -1,0 +1,78 @@
+Student-First Non-Commercial License (SF-NC) v1.1
+
+Copyright (c) 2026 Aditya
+
+Permission is granted under the terms of this license to use, copy,
+modify, and distribute this software for educational and non-commercial
+purposes, subject to the conditions below.
+
+1. Definitions
+
+   "Student" means any person enrolled in an educational program.
+
+   "Non-Commercial User" means any individual or organization using
+   the Software for purposes that do not involve commercial advantage
+   or monetary compensation.
+
+   "Commercial Actor" or "Company" means any entity or individual
+   using the Software for commercial advantage, financial gain,
+   or integration into a commercial product or service.
+
+   "Software" refers to all source code, scripts, binaries, and
+   documentation included in this repository.
+
+2. Grant of Rights to Students
+
+   Students may use, copy, modify, distribute, and sublicense the
+   Software in any form or medium without any obligation of attribution.
+
+3. Grant of Rights to Other Non-Commercial Users
+
+   Non-Commercial Users may use, copy, modify, distribute, and sublicense
+   the Software in any form or medium provided that the following notice
+   is included in all copies or substantial portions of the Software:
+
+     "Original Author: Aditya —
+      https://github.com/typer-hx/fingerprint_tool-File-Integrity-Checker"
+
+4. Redistribution
+
+   Any redistribution of the Software must include this license file
+   and retain all copyright notices.
+
+5. Modification Notice
+
+   If the Software is modified and redistributed, the modifier must
+   clearly state that changes were made and must not misrepresent the
+   modified version as the original work of the author.
+
+6. Prohibition of Commercial Use
+
+   Commercial Actors, including companies and individuals acting for
+   commercial gain, are strictly prohibited from using, copying,
+   modifying, distributing, or sublicensing the Software for any
+   commercial purpose without explicit written permission from the author.
+
+   Commercial licensing requests should be directed to the repository
+   owner via GitHub.
+
+7. No Warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   AND NON-INFRINGEMENT.
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+8. Termination
+
+   This license and the rights granted under it will terminate
+   automatically if a user breaches any of its terms and fails
+   to remedy the breach within thirty (30) days of receiving notice.
+
+9. Jurisdiction
+
+   This license shall be governed by the laws applicable in the
+   user's local jurisdiction unless otherwise required by law.
